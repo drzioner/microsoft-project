@@ -38,8 +38,8 @@ La aplicación de la administración de proyectos asegura el adecuado desarrollo
 
 Otros beneficios esperados al implantar la administración de proyectos son los siguientes:
 
-* Lograr la integración de los procesos relacionados en una metodología única que pueda ejecutarse con éxito.
+* Lograr la integración de los procesos relacionados en una metodología única que pueda ejecutarse con éxito.
 * Alcanzar de manera repetitiva los beneficios deseados en diferentes proyectos.
 * Alentar en la organización una cultura que soporte la administración de proyectos.
-* Visualizar las fortalezas y necesidades de la administración de proyectos y los beneficios que pueden alcanzarse a corto y largo plazo.
+* Visualizar las fortalezas y necesidades de la administración de proyectos y los beneficios que pueden alcanzarse a corto y largo plazo.
 * Desarrollar el curriculum en administración de proyectos de los empleados para lograr que los beneficios puedan sostenerse mejor.
