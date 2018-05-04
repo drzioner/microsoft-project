@@ -34,7 +34,7 @@ Además, el administrador de proyecto debe resolver las siguientes preguntas:
 * ¿Qué tan bien se está haciendo el proyecto?
 
 ## Beneficios de la administración de proyectos
-La aplicación de la administración de proyectos asegura el adecuado desarrollo y ejecución de sus proyectos evitando o minimizando desviaciones en aspectos importantes como costo, tiempo y alcance, lo cual proporcionará una gran ventaja competitiva al asegurar el éxito del proyecto.
+La aplicación de la administración de proyectos asegura el adecuado desarrollo y ejecución de sus proyectos evitando o minimizando desviaciones en aspectos importantes como costo, tiempo y alcance, lo cual proporcionará una gran ventaja competitiva al asegurar el éxito del proyecto.
 
 Otros beneficios esperados al implantar la administración de proyectos son los siguientes:
 
