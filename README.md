@@ -43,3 +43,5 @@ Otros beneficios esperados al implantar la administración de proyectos son los 
 * Alentar en la organización una cultura que soporte la administración de proyectos.
 * Visualizar las fortalezas y necesidades de la administración de proyectos y los beneficios que pueden alcanzarse a corto y largo plazo.
 * Desarrollar el curriculum en administración de proyectos de los empleados para lograr que los beneficios puedan sostenerse mejor.
+
+"Tomado de http://www.academia.edu/5970676/importancia_de_administracion_de_proyectos"
